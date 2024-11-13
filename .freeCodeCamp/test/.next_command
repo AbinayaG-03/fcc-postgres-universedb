@@ -76,3 +76,9 @@ git remote remove origin
 git remote add origin https://github.com/AbinayaG-03/fcc-postgres-universedb.git
 git add .
 git add .
+git commit -m "init commit"
+git push -u origin master
+git commit -m "Initial commit"
+git add .
+git add all
+git add .
