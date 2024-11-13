@@ -82,3 +82,5 @@ git commit -m "Initial commit"
 git add .
 git add all
 git add .
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+git remote add origin https://github.com/AbinayaG-03/fcc-postgres-universedb.git
